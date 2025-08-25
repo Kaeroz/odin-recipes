@@ -1,0 +1,1 @@
+Greetings! Welcome to my 1st Odin project, this follows the HTML Foundations course.
